@@ -1,0 +1,8 @@
+{
+  "SMTP server": "smtp.mail.yahoo.com",
+  "Port": "465",
+  "E-mail sender": "example@yahoo.com",
+  "Name sender": "example@yahoo.com",
+  "Password": "password from email",
+  "Encryption": "auto"
+}
